@@ -1,1 +1,11 @@
-aaa
+***O que eu entendi***
+
+
+Como a internet surgiu? --- Ela surgiu durante o periodo da guerra fria, da arpanet para proteger centros militares.
+A internet compatilha dados entre os pontos disponiveis...
+
+http:// -- (sub rede da internet especializado em Hipertexto(html)) e HTML foram criados pelo mesmo cara Tim Berners-Lee
+
+www -- Word Wide Web -- Conjunto de servidores especializados em http
+
+A  internet mudou o mundo
