@@ -1,0 +1,11 @@
+O que é domínio e o que é hospedagem?
+
+	Domínio é o nome único do seu site e Hospedagem é onde você colocar o seu site "no ar"
+
+O que é URL -- Uniform Resource Locator(Localizador de Recurso Único) -- Link do site em si
+	https:// é o protocolo
+	ex de URL : "www.github.com/gustavoguanabara"	
+	domínio --  é o "github"
+	sub-domínio -- é o "www" ou qualquer coisa que vem antes do domínio
+	TLD  -- Top Level Domain -- é o ".com" , fora esse exitem tambem os GLD e os CCDS
+	Qualquer coisa depois de uma  barra "/" é o caminho
