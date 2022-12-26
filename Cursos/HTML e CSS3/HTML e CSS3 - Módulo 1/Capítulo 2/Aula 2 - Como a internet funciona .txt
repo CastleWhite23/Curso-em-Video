@@ -1,0 +1,27 @@
+Como a internet funciona?
+Como os dados são representados no computador? 
+	<- Bit -> "binary digit" 0 e 1 
+	<- Bytes -> Conjunto de no minimo 8 bits 
+		ex: 01000001 == A
+		Tabela de representação para pesquisas: código multibyte utf-8
+	<- KB -> Conjunto de 1024 bytes
+	<- MB -> Conjunto de 1024 KB
+	<- GB -> Conjunto de 1024 MB
+	<- TB -> Conjunto de 1024 GB
+	<- PB -> Conjunto de 1024 TB
+	<- EB -> Conjunto de 1024 PB
+	<- ZB -> Conjunto de 1024 EB
+	<- YB -> Conjunto de 1024 ZB
+
+	MB(megabytes - usado pra armazenamento) != Mb(meagbits - usado pra transmissão)
+
+Como nos conectamos na internet?
+	
+	Todo aparelho que esta conectado a internet (pc, celular, notebook etc) precisa entrar em contato com o servidor para buscar dados e etc...Só que esses dados são transmitidos
+em outra frequencia de onda dos bytes, para que a tranmissão ocorra existe um aparelho que muda o tipo de onda(tipo que o pc entende) para o (tipo de onda de tranmissão)
+o aparelho responsável por isso é o modem.
+
+	Da pra descobrir o ip de um site atraves do site :  iplocation.net
+	Ip é o nome dos servidors que armazenam os dados de sites,
+	Mas voce não pesquisa os sites pelo ip, mas sim pelo DNS Domain Name System que busca os ips dos servidores desse dominio, e detalhe, os dados nem sempre são transmitidos
+pelas mesmas rotas.
